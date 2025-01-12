@@ -5,6 +5,6 @@ Python-based Tic Tac Toe game.
 
 
 <p align="center">
-<img width=1000 src="/images/screenshot.png">
+<img width=500 src="game_interface.PNG"> <img width=500 src="tie.PNG">
 </p>
 
